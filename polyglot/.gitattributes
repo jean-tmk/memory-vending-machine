@@ -1,0 +1,57 @@
+polyglot/languages/python/.gclient linguist-detectable=true linguist-language=Python
+polyglot/languages/aidl/module.aidl linguist-detectable=true linguist-language=AIDL
+polyglot/languages/ada/module.adb linguist-detectable=true linguist-language=Ada
+polyglot/languages/applescript/module.applescript linguist-detectable=true linguist-language=AppleScript
+polyglot/languages/b4x/module.bas linguist-detectable=true linguist-language=B4X
+polyglot/languages/bicep/module.bicep linguist-detectable=true linguist-language=Bicep
+polyglot/languages/brighterscript/module.bs linguist-detectable=true linguist-language=BrighterScript
+polyglot/languages/cobol/module.cob linguist-detectable=true linguist-language=COBOL
+polyglot/languages/carbon/module.carbon linguist-detectable=true linguist-language=Carbon
+polyglot/languages/classic-asp/module.asp linguist-detectable=true linguist-language=Classic ASP
+polyglot/languages/component-pascal/module.cp linguist-detectable=true linguist-language=Component Pascal
+polyglot/languages/cython/module.pyx linguist-detectable=true linguist-language=Cython
+polyglot/languages/dhall/module.dhall linguist-detectable=true linguist-language=Dhall
+polyglot/languages/edgeql/module.edgeql linguist-detectable=true linguist-language=EdgeQL
+polyglot/languages/f/module.fs linguist-detectable=true linguist-language=F#
+polyglot/languages/filebench-wml/module.f linguist-detectable=true linguist-language=Filebench WML
+polyglot/languages/futhark/module.fut linguist-detectable=true linguist-language=Futhark
+polyglot/languages/gsc/module.gsc linguist-detectable=true linguist-language=GSC
+polyglot/languages/glimmer-ts/module.gts linguist-detectable=true linguist-language=Glimmer TS
+polyglot/languages/hcl/module.hcl linguist-detectable=true linguist-language=HCL
+polyglot/languages/hurl/module.hurl linguist-detectable=true linguist-language=Hurl
+polyglot/languages/imba/module.imba linguist-detectable=true linguist-language=Imba
+polyglot/languages/jcl/module.jcl linguist-detectable=true linguist-language=JCL
+polyglot/languages/jetbrains-mps/module.mps linguist-detectable=true linguist-language=JetBrains MPS
+polyglot/languages/krl/module.krl linguist-detectable=true linguist-language=KRL
+polyglot/languages/labview/module.lvproj linguist-detectable=true linguist-language=LabVIEW
+polyglot/languages/limbo/module.b linguist-detectable=true linguist-language=Limbo
+polyglot/languages/logos/module.xm linguist-detectable=true linguist-language=Logos
+polyglot/languages/maxscript/module.ms linguist-detectable=true linguist-language=MAXScript
+polyglot/languages/metta/module.metta linguist-detectable=true linguist-language=MeTTa
+polyglot/languages/modula-2/module.mod linguist-detectable=true linguist-language=Modula-2
+polyglot/languages/motorola-68k-assembly/module.asm linguist-detectable=true linguist-language=Motorola 68K Assembly
+polyglot/languages/nemerle/module.n linguist-detectable=true linguist-language=Nemerle
+polyglot/languages/noir/module.nr linguist-detectable=true linguist-language=Noir
+polyglot/languages/objective-c/module.mm linguist-detectable=true linguist-language=Objective-C++
+polyglot/languages/openrc-runscript/module.openrc-runscript linguist-detectable=true linguist-language=OpenRC runscript
+polyglot/languages/plsql/module.pls linguist-detectable=true linguist-language=PLSQL
+polyglot/languages/pawn/module.pwn linguist-detectable=true linguist-language=Pawn
+polyglot/languages/portugol/module.por linguist-detectable=true linguist-language=Portugol
+polyglot/languages/propeller-spin/module.spin linguist-detectable=true linguist-language=Propeller Spin
+polyglot/languages/quake/m3makefile.txt linguist-detectable=true linguist-language=Quake
+polyglot/languages/racket/module.rkt linguist-detectable=true linguist-language=Racket
+polyglot/languages/redscript/module.reds linguist-detectable=true linguist-language=Redscript
+polyglot/languages/ruby/.irbrc linguist-detectable=true linguist-language=Ruby
+polyglot/languages/scenic/module.scenic linguist-detectable=true linguist-language=Scenic
+polyglot/languages/slang/module.slang linguist-detectable=true linguist-language=Slang
+polyglot/languages/sourcepawn/module.sp linguist-detectable=true linguist-language=SourcePawn
+polyglot/languages/systemverilog/module.sv linguist-detectable=true linguist-language=SystemVerilog
+polyglot/languages/tcl/owh.txt linguist-detectable=true linguist-language=Tcl
+polyglot/languages/typst/module.typ linguist-detectable=true linguist-language=Typst
+polyglot/languages/vcl/module.vcl linguist-detectable=true linguist-language=VCL
+polyglot/languages/wdl/module.wdl linguist-detectable=true linguist-language=WDL
+polyglot/languages/xc/module.xc linguist-detectable=true linguist-language=XC
+polyglot/languages/yacc/module.y linguist-detectable=true linguist-language=Yacc
+polyglot/languages/fish/module.fish linguist-detectable=true linguist-language=fish
+polyglot/languages/ucode/module.uc linguist-detectable=true linguist-language=ucode
+polyglot/majority/exhibit_registry.py linguist-detectable=true linguist-language=Python
