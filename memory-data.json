@@ -1,0 +1,154 @@
+{
+  "fragments": [
+    {
+      "key": "summer",
+      "label": "A summer that may not have happened",
+      "opening": [
+        "The afternoon had been left open on the kitchen counter.",
+        "Someone had turned July all the way up."
+      ],
+      "sensory": [
+        "The screen door clicked in the heat",
+        "A sprinkler counted backward across the lawn",
+        "Peaches cooled in a blue bowl"
+      ],
+      "witnesses": [
+        "a neighbor whose name has been misplaced",
+        "your younger shadow",
+        "the dog from two houses over"
+      ],
+      "endings": [
+        "Nobody remembers going inside.",
+        "The light stayed there after everyone left."
+      ]
+    },
+    {
+      "key": "hallway",
+      "label": "The hallway after everyone went home",
+      "opening": [
+        "The building became enormous after six o'clock.",
+        "Every office door had learned to whisper."
+      ],
+      "sensory": [
+        "The carpet held the day's last footsteps",
+        "One fluorescent light kept changing its mind",
+        "A copier warmed the empty air"
+      ],
+      "witnesses": [
+        "the person who always left last",
+        "a reflection wearing your coat",
+        "the night custodian's radio"
+      ],
+      "endings": [
+        "The elevator arrived without being called.",
+        "You took the long way out on purpose."
+      ]
+    },
+    {
+      "key": "rain",
+      "label": "Rain observed from a borrowed room",
+      "opening": [
+        "The room was not yours, but the weather behaved as if it was.",
+        "Rain made a temporary address on the glass."
+      ],
+      "sensory": [
+        "A radiator ticked beside the window",
+        "Wet traffic turned into ribbons below",
+        "The curtains smelled faintly of dust"
+      ],
+      "witnesses": [
+        "someone asleep in the next room",
+        "a lamp with a crooked shade",
+        "the city pretending not to listen"
+      ],
+      "endings": [
+        "By morning, the room had forgotten you.",
+        "You left the window exactly as you found it."
+      ]
+    },
+    {
+      "key": "birthday",
+      "label": "A birthday with one detail missing",
+      "opening": [
+        "Everyone agreed the candles were the important part.",
+        "The photograph begins just after somebody laughed."
+      ],
+      "sensory": [
+        "Paper hats leaned toward the cake",
+        "A balloon worried the ceiling",
+        "Frosting marked the edge of a sleeve"
+      ],
+      "witnesses": [
+        "a cousin who may have been a friend",
+        "the person behind the camera",
+        "one uninvited moth"
+      ],
+      "endings": [
+        "The missing detail is still making a wish.",
+        "Nobody can agree what song came next."
+      ]
+    },
+    {
+      "key": "drive",
+      "label": "The drive home from somewhere unnamed",
+      "opening": [
+        "The road knew where you were going before you did.",
+        "The car was full of a conversation already over."
+      ],
+      "sensory": [
+        "Dashboard light pooled in your lap",
+        "Telephone poles passed in patient intervals",
+        "A paper cup rolled under the seat"
+      ],
+      "witnesses": [
+        "a voice on the radio",
+        "the moon in the passenger window",
+        "someone almost saying something"
+      ],
+      "endings": [
+        "Home appeared before you were ready.",
+        "You sat in the driveway through the end of the song."
+      ]
+    },
+    {
+      "key": "snow",
+      "label": "The first snow in a place without winter",
+      "opening": [
+        "At 3:14, the air began inventing snow.",
+        "The forecast denied everything while the rooftops turned white."
+      ],
+      "sensory": [
+        "Cold gathered on the inside of the windows",
+        "Tiny footprints ended at the mailbox",
+        "Streetlights became small moons"
+      ],
+      "witnesses": [
+        "every child still awake",
+        "a weather reporter with no explanation",
+        "the orange tree under a borrowed coat"
+      ],
+      "endings": [
+        "It melted before anyone could prove it.",
+        "For years, the town kept the next morning free."
+      ]
+    }
+  ],
+  "colors": {
+    "tender": [
+      "#efc6aa",
+      "TENDER BIAS"
+    ],
+    "strange": [
+      "#a9c7d8",
+      "STRANGE BIAS"
+    ],
+    "bright": [
+      "#e6c85d",
+      "BRIGHT BIAS"
+    ],
+    "blue": [
+      "#7188aa",
+      "BLUE BIAS"
+    ]
+  }
+}
