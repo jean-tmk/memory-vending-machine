@@ -1,0 +1,4 @@
+.machine-stage{min-height:720px!important;padding:18px 2vw!important;background:#f4efe8!important}
+.machine img{width:100%!important;height:680px!important;max-height:none!important;object-fit:contain!important;filter:drop-shadow(13px 18px 0 #1414141f)!important}
+@media(max-width:920px){.machine-stage{min-height:570px!important}.machine img{height:560px!important}}
+@media(max-width:560px){.machine-stage{min-height:420px!important}.machine img{height:420px!important}}
